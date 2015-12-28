@@ -58,8 +58,7 @@ CallMethod                      | `VRTAM 2 BROJA`
 AssignVariableFromMethodCall    | `AJDE BRE`
 ParseError                      | `ZNAM SHO MU E, RASIPAN E`
 
-##Sample code:
-
+##Sample code
 MAJSTORE TRGAJ
 
 I SHO VIKASH? "Hello World!"
