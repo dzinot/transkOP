@@ -59,35 +59,35 @@ AssignVariableFromMethodCall    | `AJDE BRE`
 ParseError                      | `ZNAM SHO MU E, RASIPAN E`
 
 ##Sample code
-MAJSTORE TRGAJ
-
-I SHO VIKASH? "Hello World!"
-
-OVDE AKO MOZHI a
-I TAKA MU VELAM... 7
-
-I SHO VIKASH? a
-
-OVDE AKO MOZHI sho
-I TAKA MU VELAM... 1
-
-PUCAJ sho
-AJDE AJDE sho
-EDNA POGORE 1
-4AO MA4E
-
-I SHO VIKASH? sho
-
-PUCAJ sho
-AJDE AJDE sho
-EDNA PODOLU 1
-SHALTOVAJ NAGORE 3
-GO EBA MENJACHO 2
-4AO MA4E
-
-I SHO VIKASH? sho
-
-MAJSTORE STOJ STIGNAVME
+	MAJSTORE TRGAJ
+	
+	I SHO VIKASH? "Hello World!"
+	
+	OVDE AKO MOZHI a
+	I TAKA MU VELAM... 7
+	
+	I SHO VIKASH? a
+	
+	OVDE AKO MOZHI sho
+	I TAKA MU VELAM... 1
+	
+	PUCAJ sho
+	AJDE AJDE sho
+	EDNA POGORE 1
+	4AO MA4E
+	
+	I SHO VIKASH? sho
+	
+	PUCAJ sho
+	AJDE AJDE sho
+	EDNA PODOLU 1
+	SHALTOVAJ NAGORE 3
+	GO EBA MENJACHO 2
+	4AO MA4E
+	
+	I SHO VIKASH? sho
+	
+	MAJSTORE STOJ STIGNAVME
 
 ##Motivation and Inspiration
 Mostly boredom. Derived from [Fuckboi](https://github.com/VirenMohindra/Fuckboi) - the Fuckboi programming language.
