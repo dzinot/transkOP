@@ -1,4 +1,4 @@
-#TranskOP | [Wiki](link)
+#TranskOP | [Wiki](https://github.com/dzinot/transkOP/wiki)
 
 A basic programming language for Humans of Transkop
 
@@ -20,7 +20,7 @@ Traskop is love. Transkop is life.
 
 ##Brief overview of the keywords
 
-Check the [wiki](link) for more details.
+Check the [wiki](https://github.com/dzinot/transkOP/wiki) for more details.
 
 Keywords 						| TranskOP Keywords
 --------------------------------|------------------------------------------------------
