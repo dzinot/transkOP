@@ -90,7 +90,7 @@ ParseError                      | `ZNAM SHO MU E, RASIPAN E`
 	MAJSTORE STOJ STIGNAVME
 
 ##Motivation and Inspiration
-Mostly boredom. Derived from [Fuckboi](https://github.com/VirenMohindra/Fuckboi) - the Fuckboi programming language.
+Mostly boredom. Derived from the Fuckboi programming language.
 
 ##Features
 1. file extension of .transkop
