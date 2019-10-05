@@ -1,24 +1,24 @@
-#TranskOP | [Wiki](https://github.com/dzinot/transkOP/wiki)
+# TranskOP | [Wiki](https://github.com/dzinot/transkOP/wiki)
 
 A basic programming language for Humans of Transkop
 
-##Introduction
-Traskop is love. Transkop is life.
+## Introduction
+Transkop is love. Transkop is life.
 
-##Hello World
+## Hello World
 
 	MAJSTORE TRGAJ
 	I SHO VIKASH? "Hello World"
 	MAJSTORE STOJ STIGNAVME
 
-##Quick Start
+## Quick Start
 
 	download the jar: https://goo.gl/0EfNtT
 	write code, save as .transkop (see sample code)
 	java -jar transkop.jar file_name.transkop
 	java file_name
 
-##Brief overview of the keywords
+## Brief overview of the keywords
 
 Check the [wiki](https://github.com/dzinot/transkOP/wiki) for more details.
 
@@ -58,7 +58,8 @@ CallMethod                      | `VRTAM 2 BROJA`
 AssignVariableFromMethodCall    | `AJDE BRE`
 ParseError                      | `ZNAM SHO MU E, RASIPAN E`
 
-##Sample code
+## Sample code
+
 	MAJSTORE TRGAJ
 	
 	I SHO VIKASH? "Hello World!"
@@ -89,19 +90,19 @@ ParseError                      | `ZNAM SHO MU E, RASIPAN E`
 	
 	MAJSTORE STOJ STIGNAVME
 
-##Motivation and Inspiration
+## Motivation and Inspiration
 Mostly boredom. Derived from the Fuckboi programming language.
 
-##Features
+## Features
 1. file extension of .transkop
 	example = HelloWorld.transkop
 2. Passed ArithmeticTests, BranchStatementTests, FeatureTests, TranskopGeneratorTests, InputTests, LogicalTests, and MethodTests.
 
-##Limitations
+## Limitations
 1. Variables can only be 16bit signed integers.
 2. FULL THROTTLE
 
-##To Do List
+## To Do List
 1. Switch Case Statement
 2. [Euler's Tests](https://projecteuler.net/)
 3. Comments. //pretty important because anything written in Transkop will be practically unreadable to a normal human being.
